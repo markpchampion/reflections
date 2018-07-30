@@ -1,0 +1,7 @@
+1. git init does not do a commit for good reasons.
+2. git status is useful
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+provides a saved version of the file.
+It allows for changes to be grouped togther being commited
