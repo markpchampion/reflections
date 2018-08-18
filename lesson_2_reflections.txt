@@ -5,3 +5,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 provides a saved version of the file.
 It allows for changes to be grouped togther being commited
+
+Stage often, commit with planning.
